@@ -1,4 +1,11 @@
-87519850014774
+107070412123230
+jmnw
+4pin35mmAudio
+
+
+0
+18
+4
 jmnw
 Battery_pads_reversible
 
@@ -63,11 +70,18 @@ R
 6
 2
 jmnw
+D_SMD_TH
+Resitance 3 pas
+R
+0
+6
+2
+jmnw
 Diode_hybrid_reversible
 
 
 0
-10
+6
 2
 jmnw
 Encoder_overlay
@@ -203,6 +217,13 @@ OLED_128x64
 4
 4
 jmnw
+PJ-320A
+
+
+0
+14
+4
+jmnw
 Power_reversible
 
 
@@ -210,11 +231,46 @@ Power_reversible
 14
 3
 jmnw
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+170
+24
+jmnw
+ProMicroHumla
+
+
+0
+24
+24
+jmnw
+ProMicro_independent
+Pro Micro footprint
+promicro ProMicro
+0
+170
+48
+jmnw
 ProMicro_reversible
 
 
 0
 48
+24
+jmnw
+ProMicro_routed
+Pro Micro footprint
+promicro ProMicro
+0
+242
+24
+jmnw
+ProMicro_sing-rev
+Pro Micro footprint
+promicro ProMicro
+0
+168
 24
 jmnw
 R_0805
@@ -377,3 +433,31 @@ yaemk_sk6812_mini_e_rev
 0
 12
 4
+knott
+Battery_pads_reversible
+
+
+0
+4
+2
+knott
+Choc_reversible
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+3
+2
+knott
+Power_reversible
+
+
+0
+14
+3
+knott
+ProMicro_reversible
+
+
+0
+48
+24
