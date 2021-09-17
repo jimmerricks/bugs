@@ -1,3 +1,3 @@
 # Bugs
 
-Opinionated splite ergonomic keyboards.
+Opinionated ergonomic keyboards.
