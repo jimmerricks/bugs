@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Knott")
-    (date "2021-08-18")
-    (rev "0.1")
+    (title "Midge")
+    (date "2021-09-20")
+    (rev "0.2.1")
     (company "jmnw")
   )
 

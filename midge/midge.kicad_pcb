@@ -6,9 +6,9 @@
 
   (paper "A4")
   (title_block
-    (title "Knott")
-    (date "2021-08-18")
-    (rev "0.2")
+    (title "Midge")
+    (date "2021-09-20")
+    (rev "0.2.1")
     (company "jmnw")
   )
 
@@ -1176,7 +1176,7 @@
   (gr_arc (start 106.027064 41.563898) (end 108.027064 41.5639) (angle -90) (layer "Edge.Cuts") (width 0.15) (tstamp f083e74c-4668-4bb2-8ded-fabc9688fa30))
   (gr_line (start 126.027238 50.063266) (end 126.001582 59.553053) (layer "Edge.Cuts") (width 0.15) (tstamp f4c1c4d8-0ef1-4e8f-9b4b-6f95292c12c2))
   (gr_arc (start 128.001577 59.553052) (end 126.001582 59.553053) (angle -90) (layer "Edge.Cuts") (width 0.15) (tstamp fbc93164-f42c-46d6-8b01-66a7e4a0f74b))
-  (gr_text "Knott v0.2\nhttps://github.com/jimmerricks/bugs" (at 139.61 94.87 90) (layer "F.SilkS") (tstamp bc862b42-67d4-4897-be69-971a7615d238)
+  (gr_text "Midge v0.2.1\nhttps://github.com/jimmerricks/bugs" (at 139.61 94.87 90) (layer "F.SilkS") (tstamp bc862b42-67d4-4897-be69-971a7615d238)
     (effects (font (size 1 1) (thickness 0.12)) (justify left))
   )
 
