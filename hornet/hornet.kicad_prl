@@ -57,6 +57,7 @@
       29,
       30,
       32,
+      33,
       34,
       35,
       36
@@ -65,7 +66,7 @@
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "wasp.kicad_prl",
+    "filename": "hornet.kicad_prl",
     "version": 3
   },
   "project": {
