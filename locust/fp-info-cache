@@ -1,4 +1,4 @@
-128361218220360
+133261869286131
 bugs
 Battery_holes
 
@@ -41,6 +41,27 @@ ProMicro_reversible
 0
 48
 24
+graphics
+Cicada-
+
+
+0
+0
+0
+graphics
+Cicada-image
+
+
+0
+0
+0
+graphics
+Cicada-text
+
+
+0
+0
+0
 jmnw
 4pin35mmAudio
 
@@ -501,8 +522,8 @@ metallized_breakout_cutout
 
 
 0
-6
-1
+0
+0
 jmnw
 promicro_jumpers
 Pro Micro footprint

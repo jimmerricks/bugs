@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Cicada")
-    (date "2021-10-04")
-    (rev "0.1")
+    (title "Locust")
+    (date "2021-10-11")
+    (rev "0.2")
     (company "jmnw")
   )
 
