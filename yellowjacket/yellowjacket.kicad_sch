@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Hornet")
-    (date "2021-10-11")
-    (rev "0.1")
+    (title "Yellowjacket")
+    (date "2021-10-28")
+    (rev "0.1.1")
     (company "jmnw")
   )
 
