@@ -1,4 +1,4 @@
-133261869286131
+141468990199012
 bugs
 Battery_holes
 
@@ -41,27 +41,6 @@ ProMicro_reversible
 0
 48
 24
-graphics
-Cicada-
-
-
-0
-0
-0
-graphics
-Cicada-image
-
-
-0
-0
-0
-graphics
-Cicada-text
-
-
-0
-0
-0
 jmnw
 4pin35mmAudio
 
@@ -196,6 +175,13 @@ mounting hole 2.2mm no annular m2
 9
 1
 jmnw
+M2_double_hole_4mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+2
+0
+jmnw
 M2_hole_2.3mm
 Mounting Hole 2.2mm, no annular, M2
 mounting hole 2.2mm no annular m2
@@ -292,6 +278,20 @@ OLED_128x64
 
 0
 28
+4
+jmnw
+OLED_jumpers
+Connecteur 6 pins
+CONN DEV
+0
+28
+4
+jmnw
+OLED_reversible
+Connecteur 6 pins
+CONN DEV
+0
+4
 4
 jmnw
 PJ-320A
@@ -441,6 +441,13 @@ capacitor
 2
 2
 jmnw
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+6
+2
+jmnw
 SW_SPST_TL3342
 Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
 SPST Tactile Switch
@@ -504,12 +511,40 @@ battery_holes
 2
 2
 jmnw
+bb_EVQWGD001
+
+
+0
+6
+6
+jmnw
+bb_RotaryEncoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+jmnw
+bb_RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+jmnw
 cell_pads
 
 
 0
 2
 2
+jmnw
+ferris-rust
+
+
+0
+0
+0
 jmnw
 keyswitch_cherrymx_alps_choc12_1u
 
@@ -536,8 +571,8 @@ roller_encoder_rev
 
 
 0
-36
-6
+30
+5
 jmnw
 sk6812_mini_e_rev
 
