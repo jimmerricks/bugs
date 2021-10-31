@@ -14,7 +14,7 @@ Opinionated ergonomic keyboards.
 
 ![](images/mosquito.jpg)
 
-## Termite v0.2.1
+## Termite v0.1.2
 
 ![](images/termite.jpg)
 
@@ -22,6 +22,6 @@ Opinionated ergonomic keyboards.
 
 ![](images/wasp.jpg)
 
-## Yellowjacket v0.2.1
+## Yellowjacket v0.1.2
 
 ![](images/yellowjacket.jpg)
