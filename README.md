@@ -2,7 +2,11 @@
 
 Opinionated ergonomic keyboards.
 
-## Midge v0.2.1
+## Flea v0.1
+
+![](images/flea.jpg)
+
+## Midge v0.3
 
 ![](images/midge.jpg)
 
@@ -10,6 +14,14 @@ Opinionated ergonomic keyboards.
 
 ![](images/mosquito.jpg)
 
-## Wasp v0.1
+## Termite v0.2.1
+
+![](images/termite.jpg)
+
+## Wasp v0.1.1
 
 ![](images/wasp.jpg)
+
+## Yellowjacket v0.2.1
+
+![](images/yellowjacket.jpg)
