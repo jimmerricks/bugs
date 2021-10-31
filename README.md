@@ -14,7 +14,7 @@ Opinionated ergonomic keyboards.
 
 ![](images/mosquito.jpg)
 
-## Termite v0.1.2
+## Termite v0.2.1
 
 ![](images/termite.jpg)
 
