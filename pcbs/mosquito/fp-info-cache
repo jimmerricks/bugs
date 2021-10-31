@@ -1,4 +1,4 @@
-108702584978004
+138205856160261
 bugs
 Battery_pads_reversible
 
@@ -27,13 +27,6 @@ promicro ProMicro
 0
 168
 24
-bugs
-ProMicro_reversible
-
-
-0
-48
-24
 jmnw
 4pin35mmAudio
 
@@ -41,6 +34,13 @@ jmnw
 0
 18
 4
+jmnw
+Battery_holes
+
+
+0
+2
+2
 jmnw
 Battery_pads_reversible
 
@@ -151,7 +151,7 @@ Jumper3
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
 solder jumper open
 0
-3
+4
 3
 jmnw
 M2_HOLE_v3
@@ -160,6 +160,13 @@ mounting hole 2.2mm no annular m2
 0
 9
 1
+jmnw
+M2_double_hole_4mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+2
+0
 jmnw
 M2_hole_2.3mm
 Mounting Hole 2.2mm, no annular, M2
@@ -192,6 +199,13 @@ jmnw
 M2_hole_4.2mm
 
 
+0
+1
+0
+jmnw
+M2_hole_4mm
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
 0
 1
 0
@@ -249,6 +263,20 @@ OLED_128x64
 
 
 0
+28
+4
+jmnw
+OLED_jumpers
+Connecteur 6 pins
+CONN DEV
+0
+28
+4
+jmnw
+OLED_reversible
+Connecteur 6 pins
+CONN DEV
+0
 4
 4
 jmnw
@@ -286,6 +314,13 @@ promicro ProMicro
 0
 170
 48
+jmnw
+ProMicro_jumpers
+Pro Micro footprint
+promicro ProMicro
+0
+168
+24
 jmnw
 ProMicro_reversible
 
@@ -371,6 +406,13 @@ SK6812MINI_rev
 12
 4
 jmnw
+SK6812_mini_flipable
+MXALPS
+MXALPS
+0
+12
+4
+jmnw
 SMD-0603
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor
@@ -383,6 +425,13 @@ Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 no
 capacitor
 0
 2
+2
+jmnw
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+6
 2
 jmnw
 SW_SPST_TL3342
@@ -406,11 +455,18 @@ TRRS_reversible_strr
 8
 4
 jmnw
-Trackball_overlay
+Tenting_Puck
 
 
 0
 5
+0
+jmnw
+Trackball_overlay
+
+
+0
+39
 5
 jmnw
 USB-C_C168688
@@ -434,6 +490,34 @@ WS2812B_reversible
 8
 4
 jmnw
+battery_holes
+
+
+0
+2
+2
+jmnw
+bb_EVQWGD001
+
+
+0
+6
+6
+jmnw
+bb_RotaryEncoder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+jmnw
+bb_RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+jmnw
 cell_pads
 
 
@@ -441,12 +525,54 @@ cell_pads
 2
 2
 jmnw
+ferris-rust
+
+
+0
+0
+0
+jmnw
 keyswitch_cherrymx_alps_choc12_1u
 
 
 0
 6
 2
+jmnw
+metallized_breakout_cutout
+
+
+0
+0
+0
+jmnw
+promicro_jumpers
+Pro Micro footprint
+promicro ProMicro
+0
+168
+24
+jmnw
+roller_encoder_rev
+
+
+0
+30
+5
+jmnw
+sk6812_mini_e_rev
+
+
+0
+12
+4
+jmnw
+sk6812_mini_e_rev_mir
+
+
+0
+12
+4
 jmnw
 switch_SSSS811101
 

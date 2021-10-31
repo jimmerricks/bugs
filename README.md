@@ -10,7 +10,7 @@ Opinionated ergonomic keyboards.
 
 ![](images/midge.jpg)
 
-## Mosquito v0.1
+## Mosquito v0.1.1
 
 ![](images/mosquito.jpg)
 

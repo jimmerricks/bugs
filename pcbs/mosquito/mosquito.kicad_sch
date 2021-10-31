@@ -6,8 +6,8 @@
 
   (title_block
     (title "Mosquito")
-    (date "2021-09-20")
-    (rev "0.1")
+    (date "2021-10-31")
+    (rev "0.1.1")
     (company "jmnw")
   )
 
