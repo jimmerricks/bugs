@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "bugs")(type "KiCad")(uri "${KIPRJMOD}/../libraries/bugs.pretty")(options "")(descr ""))
-  (lib (name "graphics")(type "KiCad")(uri "${KIPRJMOD}/../libraries/graphics.pretty")(options "")(descr ""))
-)
