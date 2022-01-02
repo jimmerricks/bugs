@@ -6,6 +6,10 @@ Opinionated ergonomic keyboards.
 
 ![](images/flea.jpg)
 
+## Gnat v0.2.1
+
+![](images/gnat.jpg)
+
 ## Midge v0.3
 
 ![](images/midge.jpg)
@@ -13,10 +17,6 @@ Opinionated ergonomic keyboards.
 ## Mosquito v0.1.1
 
 ![](images/mosquito.jpg)
-
-## Termite v0.2.1
-
-![](images/termite.jpg)
 
 ## Wasp v0.1.1
 
