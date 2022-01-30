@@ -88,6 +88,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
@@ -351,7 +352,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "flea.kicad_pro",
+    "filename": "ant.kicad_pro",
     "version": 1
   },
   "net_settings": {
